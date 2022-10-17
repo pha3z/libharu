@@ -1,0 +1,12 @@
+C:\GitRepos\libharu\bindings\c#\vsdemo\LineDemo\CsHpdf\bin\Debug\net6.0\CsHpdf.deps.json
+C:\GitRepos\libharu\bindings\c#\vsdemo\LineDemo\CsHpdf\bin\Debug\net6.0\CsHpdf.dll
+C:\GitRepos\libharu\bindings\c#\vsdemo\LineDemo\CsHpdf\bin\Debug\net6.0\CsHpdf.pdb
+C:\GitRepos\libharu\bindings\c#\vsdemo\LineDemo\CsHpdf\obj\Debug\net6.0\CsHpdf.csproj.AssemblyReference.cache
+C:\GitRepos\libharu\bindings\c#\vsdemo\LineDemo\CsHpdf\obj\Debug\net6.0\CsHpdf.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitRepos\libharu\bindings\c#\vsdemo\LineDemo\CsHpdf\obj\Debug\net6.0\CsHpdf.AssemblyInfoInputs.cache
+C:\GitRepos\libharu\bindings\c#\vsdemo\LineDemo\CsHpdf\obj\Debug\net6.0\CsHpdf.AssemblyInfo.cs
+C:\GitRepos\libharu\bindings\c#\vsdemo\LineDemo\CsHpdf\obj\Debug\net6.0\CsHpdf.csproj.CoreCompileInputs.cache
+C:\GitRepos\libharu\bindings\c#\vsdemo\LineDemo\CsHpdf\obj\Debug\net6.0\CsHpdf.dll
+C:\GitRepos\libharu\bindings\c#\vsdemo\LineDemo\CsHpdf\obj\Debug\net6.0\refint\CsHpdf.dll
+C:\GitRepos\libharu\bindings\c#\vsdemo\LineDemo\CsHpdf\obj\Debug\net6.0\CsHpdf.pdb
+C:\GitRepos\libharu\bindings\c#\vsdemo\LineDemo\CsHpdf\obj\Debug\net6.0\ref\CsHpdf.dll
