@@ -12,3 +12,20 @@ set CMAKE_INCLUDE_PATH=path_to_zlib_headers
 set CMAKE_LIBRARY_PATH=path_to_zlib
 
 Windows deployment will work without any hassles because you are building Haru with static zlib and libpng libraries.  The libraries will be baked into the haru build. They don't need to be present on deployment machine.
+
+------
+
+I used this repo to perform the build of ZLIB:
+https://github.com/kiyolee/zlib-win-build
+
+I used this repo to perform the build of LIBPNG:
+https://github.com/pha3z/libpng-VisualStudio2019
+
+
+-----
+
+MY BUILD COMMANDS
+
+cmake -S ..\libharu -DCMAKE_BUILD_TYPE=RELEASE -DCMAKE_INCLUDE_PATH=..\libharu\winlibs\win64\headers -DCMAKE_LIBRARY_PATH=..\libharu\winlibs\win64\staticlibs
+
+cmake --build .\ --config RELEASE
